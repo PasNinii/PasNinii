@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasninii" alt="pasninii" /></a> </p>
 
-- 🔭 I’m currently working on **a Card Game**
+- 🔭 I’m currently working on **multiplayer browser Game**
 
-- 🌱 I’m currently learning **Angular, Vue, NestJS**
+- 🌱 I’m currently learning **Angular, NestJS**
 
 - 👯 I’m looking to collaborate on **open source Project**
-
-- 🤝 I’m looking for help with **open source project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PasNinii](https://github.com/PasNinii)
 
