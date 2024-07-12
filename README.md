@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasninii&label=Profile%20views&color=0e75b6&style=flat" alt="pasninii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasninii" alt="pasninii" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasninii&theme=onedark" alt="pasninii" /></a> </p>
 - 🔭 I’m currently working at **spinergie**
 
 - 🌱 I’m currently learning **angular & nestjs in depth**
